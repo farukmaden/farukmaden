@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Turkey<br><br>- 🔭 I’m currently working at Gora Software.<br>- 📚  I’m currently learning .net techs.<br>- ⚡My interests are Back-End and DevOps technologies.</p>
+<p align="left">I'm from Turkey<br><br>- 🔭 I’m currently working at Teklif Grup<br>- 📚  I’m currently learning .net techs.<br>- ⚡My interests are Back-End and DevOps technologies.</p>
 
 ###
 
