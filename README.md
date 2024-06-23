@@ -39,7 +39,7 @@
   <img width="16" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
   <img width="16" />
-  <img src="https://cdnlogo.com/logo/mongodb-icon_41043.html"><img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/>
+  <img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg" height="40" alt="mongodb logo"/>
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="16" />
