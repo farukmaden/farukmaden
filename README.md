@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm from Turkey<br><br>- 🔭 I’m currently working at Teklif Grup<br>- 📚  I’m currently learning .net techs.<br>- ⚡My interests are Back-End and DevOps technologies.</p>
+<p align="left">I'm from Turkey<br><br>- 🔭 I’m currently working at Teklif Group<br>- 📚  I’m currently learning .net techs.<br>- ⚡My interests are Back-End and DevOps technologies.</p>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img width="16" />
+  <img src="https://cdnlogo.com/logo/mongodb-icon_41043.html"><img src="https://www.cdnlogo.com/logos/m/30/mongodb-icon.svg"/>
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="16" />
