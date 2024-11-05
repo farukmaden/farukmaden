@@ -63,7 +63,6 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="16" />
-  <img src="https://cdn.simpleicons.org/quartz/007396" height="40" alt="quartz job logo"  />
 </div>
 
 ###
